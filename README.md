@@ -53,7 +53,7 @@ python run.py
 
 
 ## 📡 **API Endpoints**
-```markdown
+```
 | Method | Endpoint | Description |
 |--------|----------|-------------|
 | `GET`  | `/` | API health check |

@@ -2,7 +2,7 @@
 A Flasked-based API that scrapes job postings across online sources and gives structured job data.
 
 ## 📌 **Overview**
-I am building a job scraping API with Flask and BeautifulSoup. This tool will extract job postings from websites like Indeed or ZipRecruiter and store them in a PostgreSQL Database. The API provides endpoints to fetch and fliter job listings.
+I am building a job scraping API with Flask and BeautifulSoup. This tool will extract job postings from websites like Indeed or ZipRecruiter and store them in a PostgreSQL Database. The API provides endpoints to fetch and filter job listings.
 
 🔷 **Tech Stack:**\
 ✅ Flask (For the API)\

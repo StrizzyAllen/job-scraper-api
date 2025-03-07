@@ -52,8 +52,7 @@ python run.py
 ### 💡 Open https://127.0.0.1:5000/ in your web browser to see the **API** running 🏃
 
 ## 📡 **API Endpoints**
-```markdown
-API Endpoints
+```
 | Method | Endpoint | Description |
 |--------|----------|-------------|
 | `GET`  | `/` | API health check |

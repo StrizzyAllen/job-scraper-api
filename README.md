@@ -69,7 +69,7 @@ access\
 🔷 Optimize web scraping with async tasks
 
 ## :trollface: **Contributing**
-Feel free to do a pull request if I have issues open, or you can reachout to me directly and we can work something out where you can help me with this project. If I end up scaling this, I will definetly add issues and give the easability to do pull requests.
+Feel free to do a pull request if I have issues open, or you can reach out to me directly and we can work something out where you can help me with this project. If I end up scaling this, I will definetly add issues and give the easability to do pull requests.
 
 ## 📜 **License**
 MIT License

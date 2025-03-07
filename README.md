@@ -30,7 +30,7 @@ job-scraper-api/
 │── README.md              # Project documentation
 ```
 
-## ⚡ **Hot To Run Locally**
+## ⚡ **How To Run Locally**
 ### 1️⃣ **clone the Repository**
 ```bash
 git clone https://github.com/StrizzyAllen/job-scraper-api
@@ -51,9 +51,9 @@ python run.py
 ```
 ### 💡 Open https://127.0.0.1:5000/ in your web browser to see the **API** running 🏃
 
-
 ## 📡 **API Endpoints**
-```
+```markdown
+API Endpoints
 | Method | Endpoint | Description |
 |--------|----------|-------------|
 | `GET`  | `/` | API health check |
@@ -63,7 +63,7 @@ python run.py
 ```
 
 ## 🛠️ **Future Improvements**
-🔷 Add more jobe sites\
+🔷 Add more job sites\
 🔷 Add authentication for private API
 access\
 🔷 Optimize web scraping with async tasks

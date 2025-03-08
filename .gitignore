@@ -169,3 +169,6 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Page Source - raw data from job weworkremote page for debugging and testing
+page_source.html
